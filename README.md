@@ -5,8 +5,6 @@
 	I am from Brazil and i love info security.
 	I'm sorry for anything lol
 
-<p> ✪ Social ✪</p>
-
 
 <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80px"/></a>
 <a><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="76px" alt="Discord"/></a>
