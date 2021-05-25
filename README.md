@@ -1,6 +1,6 @@
 ### Profile
 
-<h4> Hello, my name is Alex and i have seventeen years old ✋🏻</h4>
+- Hello, my name is Alex and i have seventeen years old ✋🏻
 
 ---
 	I am from Brazil and i love info security.
