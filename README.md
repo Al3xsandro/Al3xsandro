@@ -18,6 +18,8 @@
 		- Typescript
 		- HTML5/CSS3
 		- Scss
+		- Linux
+		- Postgres
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al3xsandro&show_icons=true&theme=radical)
