@@ -1,10 +1,24 @@
 <h1>Profile</h1>
 
-- Hello, my name is Alex and i have seventeen years old ✋🏻
-
 ---
+	
+	Hello, my name is Alex and i have seventeen years old ✋🏻
 	I am from Brazil and i love info security.
 	I'm sorry for anything lol
+	
+	
+- Languages & Tools 🛠️
+
+	
+		- Node
+		- Express
+		- ReactJs
+		- Docker
+		- SQL
+		- Typescript
+		- HTML5/CSS3
+		- Scss
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al3xsandro&show_icons=true&theme=radical)
 
