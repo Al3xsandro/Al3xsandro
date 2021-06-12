@@ -7,7 +7,7 @@
 	I'm sorry for anything lol
 	
 	
-- Languages & Tools 🛠️
+* Languages & Tools 🛠️
 
 	
 		- Node
@@ -20,7 +20,6 @@
 		- Scss
 		- Linux
 		- Postgres
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al3xsandro&show_icons=true&theme=radical)
 
