@@ -16,7 +16,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
-<h2>Contact 📝</h2>
+<h3> 📝 Contact:</h3>
 
 <a href="https://www.linkedin.com/in/alex-almeida-58b8461b5/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80px"/></a>
 <a href="https://discord.gg/Alexsandro#5254"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="76px" alt="Discord"/></a>
