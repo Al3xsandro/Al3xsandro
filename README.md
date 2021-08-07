@@ -1,8 +1,9 @@
 <h3>⚡ Profile</h3>
 
 	
-	Hello, my name is Alex and i am seventeen years old ✋🏻
-	I am from Brazil and I love info security.
+   - ✋🏻 Hello, my name is `Alex` and i am seventeen years old.
+   - 💻 I am currently looking for jobs.
+   - 🇧🇷 I am from Brazil and I love info security.
 	
 <h4>🔭 Languages & Tools: </h4>
 <div style="align-items:center">
